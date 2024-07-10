@@ -127,4 +127,15 @@ img{
     .line{
         visibility: hidden;
     }
+    nav{
+        font-size: 10vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    img{
+        width: 5vw;
+        height: 10vh;
+        text-align: center;
+    }
 }

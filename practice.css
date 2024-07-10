@@ -112,9 +112,8 @@ img{
     }
     .gameInfo{
         margin-top: 3vh;
-        display: flex;
-        justify-content: center;
-        align-items: center;
+        display: grid;
+        place-items: center;
     }
     .container { 
         /* width: 10vw; */

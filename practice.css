@@ -70,7 +70,7 @@ img{
 }
 
 .gameInfo{
-    padding: 0 34px;
+    /* padding: 0 34px; */
     font-family: 'Baloo Bhaina 2', cursive;
 }
 
@@ -84,7 +84,8 @@ img{
 }
 
 #reset {
-    margin: 0 23px;
+    /* margin: 0 23px; */
+    margin-left: 4vw;
     padding: 1px 18px;
     background: #FFE956;
     border-radius: 6px;
@@ -92,7 +93,7 @@ img{
     font-family: 'Baloo Bhaina 2';
     font-size: 15px;
     font-weight: bolder;
-    margin-left: 5vw;
+    /* margin-left: 5vw; */
 }
 .line{
     background-color: black;

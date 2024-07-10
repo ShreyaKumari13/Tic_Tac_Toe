@@ -121,4 +121,7 @@ img{
         grid-template-rows: repeat(3, 30vw);
         grid-template-columns: repeat(3, 30vw);
     }
+    .line{
+        visibility: hidden;
+    }
 }

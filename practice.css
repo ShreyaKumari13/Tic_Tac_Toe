@@ -111,13 +111,10 @@ img{
         /* width: 50vw; */
     }
     .gameInfo{
-        margin-top: 2vh;
+        margin-top: 3vh;
         display: flex;
         justify-content: center;
         align-items: center;
-    }
-    .gameInfo h1{
-        font-size:xx-large;
     }
     .container { 
         /* width: 10vw; */
@@ -127,10 +124,16 @@ img{
     .line{
         visibility: hidden;
     }
+    .boxtext{
+        font-size: 10vw;
+    }
     nav{
         font-size: 10vh;
         display: flex;
         align-items: center;
         justify-content: center;
+    }
+    .box{
+        font-size: 5vw;
     }
 }

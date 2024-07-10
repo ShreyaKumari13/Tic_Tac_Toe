@@ -103,19 +103,20 @@ img{
     transition: width 1s ease-in-out;
 }
 
-@media screen and (max-width: 300px)
+@media screen and (max-width: 1500px)
 {
     .gameContainer{
-        flex-wrap: wrap;
+        /* flex-wrap: wrap; */
+        margin-top: 10vh;
     }
     .gameInfo{
-        margin-top: 34px;
+        margin-top: 5vh;
     }
     .gameInfo h1{
         font-size: 1.5rem;
     }
-    /* .container { 
-        grid-template-rows: repeat(3, 20vw);
-        grid-template-columns: repeat(3, 20vw);
-    } */
+    .container { 
+        grid-template-rows: repeat(3, 30vw);
+        grid-template-columns: repeat(3, 30vw);
+    }
 }

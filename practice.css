@@ -136,8 +136,10 @@ img{
     .box{
         font-size: 5vw;
     }
-    .imgbox img{
-        display: grid;
-        place-items: center;
+    .imgbox{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
     }
 }

@@ -71,6 +71,9 @@ img{
 
 .gameInfo{
     /* padding: 0 34px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
     font-family: 'Baloo Bhaina 2', cursive;
 }
 
@@ -135,11 +138,5 @@ img{
     }
     .box{
         font-size: 5vw;
-    }
-    .imgbox{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-
     }
 }

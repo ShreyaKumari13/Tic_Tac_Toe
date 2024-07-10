@@ -103,10 +103,10 @@ img{
     transition: width 1s ease-in-out;
 }
 
-@media screen and (max-width: 1500px)
+@media screen and (max-width: 400px)
 {
     .gameContainer{
-        /* flex-wrap: wrap; */
+        flex-wrap: wrap;
         margin-top: 10vh;
     }
     .gameInfo{

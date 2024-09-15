@@ -13,3 +13,6 @@ How to Play
   * Winning the Game: The first player to align three marks in a row (horizontally, vertically, or diagonally) wins.
   * Draw: If all cells are filled without a winner, the game ends in a draw.
   * Reset: Click the reset button to start a new game.
+
+    #Link for the website
+    *   https://tictactoetic.netlify.app/

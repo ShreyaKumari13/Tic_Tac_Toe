@@ -14,5 +14,8 @@
   * Draw: If all cells are filled without a winner, the game ends in a draw.
   * Reset: Click the reset button to start a new game.
 
-## Link for the website
-    *   https://tictactoetic.netlify.app/
+## How to Access the Game
+
+Click the link below to play Tic Tac Toe:
+
+[**Play Tic Tac Toe**](https://tictactoetic.netlify.app/)
